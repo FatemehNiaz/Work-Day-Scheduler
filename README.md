@@ -18,7 +18,7 @@ Creating a work day calendar application which will run in the browser. This app
 
 
 ## Screenshot
-(./Assets/Calander Screen Shot 2022-10-10 at 10.30.20 PM.png)
+(./Assets/Calander-screenshot.png)
 
 ## Licence
 MIT Licence, 2022 version
