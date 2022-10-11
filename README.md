@@ -7,7 +7,7 @@ Creating a work day calendar application which will run in the browser. This app
 
 ## Acceptance Criteria
 
-```md
+`
 > This calender's should display the current day on top of the calander
 > There should be timeblocks for standard business hours (9 AM to 5 PM)
 > There should be color coded timeblock to show past, present and future in different color
@@ -15,11 +15,10 @@ Creating a work day calendar application which will run in the browser. This app
 > Users should be able to save the event which they have entered in the timeblock
 > By saving the task in the timeblock, it should be save in the local storage
 > Users should be able to see what they have saved after refreshing the calander app page
-```
+
 
 ## Screenshot
-
-(./Assets/Calander%20Screen%20Shot%202022-10-10%20at%2010.30.20%20PM.png)
+(./Assets/Calander Screen Shot 2022-10-10 at 10.30.20 PM.png)
 
 ## Licence
 MIT Licence, 2022 version
